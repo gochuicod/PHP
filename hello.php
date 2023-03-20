@@ -24,7 +24,7 @@
     
     <section>
         <h1>Activity 2</h1>
-        <form action="action.php" method="post">
+        <form action="add_person.php" method="post">
             <p>Firstname: <input type="text" name="firstname" /></p>
             <p>Lastname: <input type="text" name="lastname" /></p>
             <p>Age: <input type="text" name="age" /></p>
